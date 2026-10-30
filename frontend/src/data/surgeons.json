@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "doctor_id": 1,
+    "display_name": "Prof Chidziva",
+    "glove_size": "7",
+    "general_notes": "Prepare for bronchoscope on all airway cases. Prefers a quiet set-up and labelled sutures."
+  },
+  {
+    "id": 2,
+    "doctor_id": 2,
+    "display_name": "Mr Machawira",
+    "glove_size": "7½",
+    "general_notes": "Sandbag or pillow for positioning. Keep saline on the field."
+  },
+  {
+    "id": 3,
+    "doctor_id": 3,
+    "display_name": "Dr Nyathi",
+    "glove_size": "6½",
+    "general_notes": "Double-glove for all open abdominal cases."
+  }
+]

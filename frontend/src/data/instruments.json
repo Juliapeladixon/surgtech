@@ -1,0 +1,20 @@
+[
+  { "instrument_id": 1, "name": "Mosquito forceps", "category": "Forceps", "type_or_variant": "Curved", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-18" },
+  { "instrument_id": 2, "name": "Cat's paw retractor", "category": "Retractor", "type_or_variant": "Small", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-18" },
+  { "instrument_id": 3, "name": "Latex tubing", "category": "Equipment", "type_or_variant": "Standard", "is_reusable": false, "condition_status": "Sterile", "last_sterilized_date": null },
+  { "instrument_id": 4, "name": "Adson forceps", "category": "Forceps", "type_or_variant": "Toothed", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-20" },
+  { "instrument_id": 5, "name": "Adson forceps", "category": "Forceps", "type_or_variant": "Non-toothed", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-20" },
+  { "instrument_id": 6, "name": "McIndoe scissors", "category": "Scissors", "type_or_variant": "Curved", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-19" },
+  { "instrument_id": 7, "name": "O'Shaughnessy forceps", "category": "Forceps", "type_or_variant": "Straight", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-18" },
+  { "instrument_id": 8, "name": "Mayo scissors", "category": "Scissors", "type_or_variant": "Straight", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-19" },
+  { "instrument_id": 9, "name": "Babcock forceps", "category": "Forceps", "type_or_variant": "Standard", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-17" },
+  { "instrument_id": 10, "name": "Towel clips", "category": "Clip", "type_or_variant": "Mayo", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-18" },
+  { "instrument_id": 11, "name": "Travers retractor", "category": "Retractor", "type_or_variant": "Self-retaining", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-16" },
+  { "instrument_id": 12, "name": "Langenbeck retractor", "category": "Retractor", "type_or_variant": "Medium", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-16" },
+  { "instrument_id": 13, "name": "Yankauer sucker", "category": "Suction", "type_or_variant": "Adult", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-21" },
+  { "instrument_id": 14, "name": "Diathermy forceps", "category": "Equipment", "type_or_variant": "Bipolar", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-21" },
+  { "instrument_id": 15, "name": "Sandbag", "category": "Positioning aid", "type_or_variant": "Shoulder", "is_reusable": true, "condition_status": "Clean", "last_sterilized_date": null },
+  { "instrument_id": 16, "name": "Boyle-Davis gag", "category": "Equipment", "type_or_variant": "Adult", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-15" },
+  { "instrument_id": 17, "name": "Dennis Browne tonsil forceps", "category": "Forceps", "type_or_variant": "Standard", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-15" },
+  { "instrument_id": 18, "name": "Negus knot pusher", "category": "Equipment", "type_or_variant": "Standard", "is_reusable": true, "condition_status": "Sterile", "last_sterilized_date": "2026-09-15" }
+]

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" fill="none">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <!-- circular emblem -->
+  <circle cx="260" cy="145" r="108" fill="#0a4f9c"/>
+  <path d="M155 145c0-58 47-105 105-105" stroke="#1a9fd8" stroke-width="18" stroke-linecap="round"/>
+  <path d="M365 145c0 58-47 105-105 105" stroke="#0d8a6a" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="260" cy="145" r="52" fill="#0d8a6a"/>
+  <path d="M260 118v54M233 145h54" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <!-- wordmark -->
+  <text x="80" y="310" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">
+    <tspan fill="#1a9fd8">Surg</tspan><tspan fill="#0a4f9c">Tech</tspan>
+  </text>
+  <circle cx="390" cy="292" r="28" fill="#0d8a6a"/>
+  <path d="M390 278v28M376 292h28" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <text x="422" y="310" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#0d8a6a">R</text>
+  <line x1="70" y1="345" x2="150" y2="345" stroke="#0d8a6a" stroke-width="3"/>
+  <text x="160" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#0a4f9c" letter-spacing="2">SAFER SURGERIES. BETTER OUTCOMES.</text>
+  <line x1="455" y1="345" x2="500" y2="345" stroke="#0a4f9c" stroke-width="3"/>
+</svg>

@@ -1,0 +1,14 @@
+[
+  { "id": 1, "specialty_id": 1, "name": "Tonsillectomy", "aliases": "T's and A's, tonsils" },
+  { "id": 2, "specialty_id": 1, "name": "Adenoidectomy", "aliases": "Adenoids" },
+  { "id": 3, "specialty_id": 1, "name": "Myringotomy and grommets", "aliases": "Grommets, M&T" },
+  { "id": 4, "specialty_id": 1, "name": "Functional endoscopic sinus surgery", "aliases": "FESS" },
+  { "id": 5, "specialty_id": 1, "name": "Microlaryngoscopy", "aliases": "MLS" },
+  { "id": 6, "specialty_id": 2, "name": "Stripping of varicose veins", "aliases": "VV strip, varicose veins" },
+  { "id": 7, "specialty_id": 2, "name": "AV fistula formation", "aliases": "Fistula, brachiocephalic fistula" },
+  { "id": 8, "specialty_id": 2, "name": "Femoral embolectomy", "aliases": "Embolectomy" },
+  { "id": 9, "specialty_id": 3, "name": "Open inguinal hernia repair", "aliases": "Hernia, Lichtenstein" },
+  { "id": 10, "specialty_id": 3, "name": "Laparoscopic cholecystectomy", "aliases": "Lap chole, gallbladder" },
+  { "id": 11, "specialty_id": 3, "name": "Appendicectomy", "aliases": "Appendix" },
+  { "id": 12, "specialty_id": 3, "name": "Excision of lipoma", "aliases": "Lipoma" }
+]

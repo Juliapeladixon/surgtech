@@ -1,0 +1,16 @@
+[
+  {
+    "username": "editor",
+    "password": "demo123",
+    "display_name": "Theatre Editor",
+    "role": "EDITOR",
+    "clinic_slug": "parirenyatwa"
+  },
+  {
+    "username": "admin",
+    "password": "demo123",
+    "display_name": "Theatre Admin",
+    "role": "ADMIN",
+    "clinic_slug": "parirenyatwa"
+  }
+]

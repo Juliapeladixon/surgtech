@@ -1,0 +1,44 @@
+[
+  {
+    "doctor_id": 1,
+    "title": "Prof",
+    "doctor_name": "Clemence Chidziva",
+    "specialty_id": 1,
+    "sub_specialty": "Paediatric ENT",
+    "practice_or_hospital": "University of Zimbabwe / Parirenyatwa Group of Hospitals",
+    "address": "Mazowe Street, Avondale",
+    "city": "Harare",
+    "phone_primary": "0242 791631",
+    "phone_secondary": "0772 114 220",
+    "is_group_practice": false,
+    "notes": "Prefers cards kept current with the ENT list. Always confirm bronchoscope availability for airway cases."
+  },
+  {
+    "doctor_id": 2,
+    "title": "Mr",
+    "doctor_name": "T. Machawira",
+    "specialty_id": 2,
+    "sub_specialty": "Venous surgery",
+    "practice_or_hospital": "Parirenyatwa Group of Hospitals",
+    "address": "Mazowe Street, Avondale",
+    "city": "Harare",
+    "phone_primary": "0242 791631",
+    "phone_secondary": "0712 445 881",
+    "is_group_practice": false,
+    "notes": "Original varicose-vein card dated 12 June 2024. Uses sandbag or pillow for positioning."
+  },
+  {
+    "doctor_id": 3,
+    "title": "Dr",
+    "doctor_name": "Rudo Nyathi",
+    "specialty_id": 3,
+    "sub_specialty": "Hernia and abdominal wall",
+    "practice_or_hospital": "Parirenyatwa Group of Hospitals",
+    "address": "Mazowe Street, Avondale",
+    "city": "Harare",
+    "phone_primary": "0242 791631",
+    "phone_secondary": "",
+    "is_group_practice": false,
+    "notes": "Requests extra mesh options on hernia cards."
+  }
+]

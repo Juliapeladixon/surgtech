@@ -1,0 +1,12 @@
+[
+  { "pack_id": 1, "pack_name": "Major general set", "pack_type": "Instrument tray", "contents_description": "Major general instrument tray for open cases", "is_reusable": true, "sterile_until": "2026-10-12", "last_sterilized_date": "2026-09-14" },
+  { "pack_id": 2, "pack_name": "Bowl pack", "pack_type": "Bowl pack", "contents_description": "Sterile bowls and receivers", "is_reusable": true, "sterile_until": "2026-10-08", "last_sterilized_date": "2026-09-16" },
+  { "pack_id": 3, "pack_name": "Gown pack (3)", "pack_type": "Gown pack", "contents_description": "3 sterile surgical gowns", "is_reusable": false, "sterile_until": "2027-01-30", "last_sterilized_date": null },
+  { "pack_id": 4, "pack_name": "Splash bowl", "pack_type": "Bowl pack", "contents_description": "Single splash bowl", "is_reusable": true, "sterile_until": "2026-10-08", "last_sterilized_date": "2026-09-16" },
+  { "pack_id": 5, "pack_name": "Drape", "pack_type": "Drape", "contents_description": "Sterile operative drape", "is_reusable": false, "sterile_until": "2027-04-01", "last_sterilized_date": null },
+  { "pack_id": 6, "pack_name": "Minor set", "pack_type": "Instrument tray", "contents_description": "Minor instrument tray", "is_reusable": true, "sterile_until": "2026-10-10", "last_sterilized_date": "2026-09-17" },
+  { "pack_id": 7, "pack_name": "ENT tonsil tray", "pack_type": "Instrument tray", "contents_description": "Tonsillectomy instruments including Boyle-Davis gag", "is_reusable": true, "sterile_until": "2026-10-05", "last_sterilized_date": "2026-09-15" },
+  { "pack_id": 8, "pack_name": "Laparoscopic pack", "pack_type": "Instrument tray", "contents_description": "Ports, camera drape, and lap instruments", "is_reusable": true, "sterile_until": "2026-10-11", "last_sterilized_date": "2026-09-18" },
+  { "pack_id": 9, "pack_name": "Vascular set", "pack_type": "Instrument tray", "contents_description": "Vascular clamps, potts, and fine forceps", "is_reusable": true, "sterile_until": "2026-10-09", "last_sterilized_date": "2026-09-16" },
+  { "pack_id": 10, "pack_name": "Dressing pack", "pack_type": "Drape", "contents_description": "Gauze, wool, and crepe for dressing", "is_reusable": false, "sterile_until": "2027-02-14", "last_sterilized_date": null }
+]

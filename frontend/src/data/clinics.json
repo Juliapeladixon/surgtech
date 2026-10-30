@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "slug": "parirenyatwa",
+    "name": "Parirenyatwa Group of Hospitals",
+    "short_name": "Parirenyatwa",
+    "city": "Harare",
+    "address": "Mazowe Street, Avondale",
+    "phone": "0242 791631",
+    "welcome": "Welcome to the Parirenyatwa theatre file. Look up a specialty, then the surgeon, then download the card before the list starts.",
+    "notices": [
+      "Confirm bronchoscope availability for airway lists.",
+      "ENT cards stay with the weekday list."
+    ],
+    "aliases": [
+      "University of Zimbabwe / Parirenyatwa Group of Hospitals",
+      "Parirenyatwa Group of Hospitals",
+      "Parirenyatwa"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "citimed",
+    "name": "Citimed Hospital",
+    "short_name": "Citimed",
+    "city": "Harare",
+    "address": "1 Cork Road, Belgravia",
+    "phone": "0242 746000",
+    "welcome": "Welcome to Citimed. Preference cards for resident and visiting surgeons at this site.",
+    "notices": [
+      "Varicose-vein lists: sandbag or pillow for positioning.",
+      "Check saline stock before venous cases."
+    ],
+    "aliases": ["Citimed Hospital", "Citimed"]
+  },
+  {
+    "id": 3,
+    "slug": "sally-mugabe",
+    "name": "Sally Mugabe Central Hospital",
+    "short_name": "Sally Mugabe",
+    "city": "Harare",
+    "address": "Southerton",
+    "phone": "0242 621101",
+    "welcome": "Welcome to Sally Mugabe Central. Theatre teams use this file to set trays before the list starts.",
+    "notices": [
+      "Hernia cards should include extra mesh options.",
+      "Double-glove standing order applies on hernia lists."
+    ],
+    "aliases": ["Sally Mugabe Central Hospital", "Sally Mugabe"]
+  }
+]

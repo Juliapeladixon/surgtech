@@ -1,0 +1,14 @@
+[
+  { "suture_id": 1, "material": "Silk", "size": "0", "item_type": "Tie", "needle_type": "None", "needle_length_mm": null, "is_absorbable": false, "expiry_date": "2027-03-01" },
+  { "suture_id": 2, "material": "Silk", "size": "3/0", "item_type": "Tie", "needle_type": "None", "needle_length_mm": null, "is_absorbable": false, "expiry_date": "2027-03-01" },
+  { "suture_id": 3, "material": "Nylon", "size": "2/0", "item_type": "Needled suture", "needle_type": "Cutting", "needle_length_mm": 26, "is_absorbable": false, "expiry_date": "2026-12-15" },
+  { "suture_id": 4, "material": "Nylon", "size": "3/0", "item_type": "Needled suture", "needle_type": "Cutting", "needle_length_mm": 24, "is_absorbable": false, "expiry_date": "2026-12-15" },
+  { "suture_id": 5, "material": "Prolene", "size": "4/0", "item_type": "Needled suture", "needle_type": "Round body", "needle_length_mm": 25, "is_absorbable": false, "expiry_date": "2027-06-01" },
+  { "suture_id": 6, "material": "Prolene", "size": "5/0", "item_type": "Needled suture", "needle_type": "Round body", "needle_length_mm": 16, "is_absorbable": false, "expiry_date": "2027-06-01" },
+  { "suture_id": 7, "material": "Vicryl", "size": "2/0", "item_type": "Needled suture", "needle_type": "Round body", "needle_length_mm": 26, "is_absorbable": true, "expiry_date": "2026-11-20" },
+  { "suture_id": 8, "material": "Vicryl", "size": "3/0", "item_type": "Needled suture", "needle_type": "Round body", "needle_length_mm": 22, "is_absorbable": true, "expiry_date": "2026-11-20" },
+  { "suture_id": 9, "material": "Vicryl Rapide", "size": "3/0", "item_type": "Needled suture", "needle_type": "Cutting", "needle_length_mm": 19, "is_absorbable": true, "expiry_date": "2026-10-08" },
+  { "suture_id": 10, "material": "PDS", "size": "1", "item_type": "Needled suture", "needle_type": "Round body", "needle_length_mm": 40, "is_absorbable": true, "expiry_date": "2027-01-12" },
+  { "suture_id": 11, "material": "Monocryl", "size": "3/0", "item_type": "Needled suture", "needle_type": "Cutting", "needle_length_mm": 19, "is_absorbable": true, "expiry_date": "2027-02-28" },
+  { "suture_id": 12, "material": "Silk", "size": "2/0", "item_type": "Needled suture", "needle_type": "Cutting", "needle_length_mm": 26, "is_absorbable": false, "expiry_date": "2027-03-01" }
+]
